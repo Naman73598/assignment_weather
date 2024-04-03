@@ -3,3 +3,4 @@ This is the weather app that retrieves weather information using an API and disp
 
 <h2>Output</h2> 
 
+![alt text](https://github.com/Naman73598/assignment_weather/blob/main/assets/image.png?raw=true)
